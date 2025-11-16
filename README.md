@@ -1,5 +1,7 @@
 # Gen AI Intensive Course Capstone 2025Q1: Advanced Emotional Semantic Search Engine for Anime/Manga (RAG + ChromaDB + Re-ranking)  
 
+Link to the competion here [Gen AI Intensive Course Capstone 2025Q1](https://www.kaggle.com/competitions/gen-ai-intensive-course-capstone-2025q1)
+
 ## The Challenge  
 Discovering new anime or manga often goes beyond simple genre tags or keyword searches. Users frequently look for titles based on a specific feeling, atmosphere, vibe, or inspiration derived from past experiences (e.g., "something melancholic and beautiful like Your Name", "an epic adventure that gets you hyped like Gurren Lagann"). Traditional search methods struggle to capture these nuanced, emotional queries.
 
